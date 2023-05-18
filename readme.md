@@ -5,7 +5,7 @@ a simple discord bot uses [discord.py 2.0](https://github.com/Rapptz/discord.py)
 **this bot is still under development**
 
 
-if you have any problems with it, just dm me via discord [**dat#5899**](https://discord.com/users/798878848098762793) or [create an issue](https://github.com/dat7726/Sakurako-issue/issues/new/choose)
+if you have any problems with it, just dm me via discord [**lyrinth#0001**](https://discord.com/users/798878848098762793) or [create an issue](https://github.com/dat7726/Sakurako-issue/issues/new/choose)
 
 feel free to join the support server (click the image) 
 
